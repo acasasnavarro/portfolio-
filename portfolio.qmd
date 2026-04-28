@@ -27,8 +27,30 @@ You can add options to executable code like this
 ```{r}
 #| echo: false
 library("tidyverse")
+library(ggplot2)
 ```
+
+
 ```{r}
-star <- read_csv("archive/shopping_trends_updated.csv")
+star <- read_csv("data-raw/Casas Bat star Project Data - Sheet1.csv")
+```
+
+
+
+```{r}
+star_clean <- star |>
+  filter(Larvae >= 1)
+
+
+star_clean2 <- star_clean |>
+    pivot_longer(cols = c(Larvae, Settled), 
+               names_to = "Status", 
+               values_to = "Count")
+```
+
+
+
+```{r}
+
 ```
 
