@@ -46,11 +46,34 @@ star_clean2 <- star_clean |>
     pivot_longer(cols = c(Larvae, Settled), 
                names_to = "Status", 
                values_to = "Count")
+
+starclean3 <- star_clean |>
+  mutate( Total = Larvae + Settled,
+          propsettled = (Settled / Total)* 100)
+
+
 ```
 
 
 
 ```{r}
+write_csv(star_clean, "data-clean/star_clean.csv")
+write_csv(star_clean2, "data-clean/star_clean2.csv")
+write_csv(starclean3, "data-clean/starclean3.csv")
 
+```
+
+
+```{r}
+star |>
+  ggplot(aes(x = Day, y = Settled, color = Treatment)) +
+  geom_point(size = 0.5) +
+  geom_smooth() +
+  scale_x_continuous(breaks = 1:27) +
+  labs(title = "Number of settled larvae over time", 
+       x = "Days",
+       y = "Number of settled larvae",
+       color = "Treatment") +
+  theme(legend.position = "bottom") 
 ```
 
