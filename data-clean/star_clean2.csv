@@ -1,0 +1,429 @@
+Date,Container,Treatment,Day,Status,Count
+2/14/26,1,Control,1,Larvae,30
+2/14/26,1,Control,1,Settled,0
+2/14/26,2,Control,1,Larvae,30
+2/14/26,2,Control,1,Settled,0
+2/14/26,3,Rhodomonas,1,Larvae,30
+2/14/26,3,Rhodomonas,1,Settled,0
+2/14/26,4,Rhodomonas,1,Larvae,30
+2/14/26,4,Rhodomonas,1,Settled,0
+2/14/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,1,Larvae,30
+2/14/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,1,Settled,0
+2/14/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,1,Larvae,30
+2/14/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,1,Settled,0
+2/14/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,1,Larvae,30
+2/14/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,1,Settled,0
+2/14/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,1,Larvae,30
+2/14/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,1,Settled,0
+2/14/26,1,Control,2,Larvae,30
+2/14/26,1,Control,2,Settled,0
+2/15/26,2,Control,2,Larvae,30
+2/15/26,2,Control,2,Settled,0
+2/15/26,3,Rhodomonas,2,Larvae,30
+2/15/26,3,Rhodomonas,2,Settled,0
+2/15/26,4,Rhodomonas,2,Larvae,30
+2/15/26,4,Rhodomonas,2,Settled,0
+2/15/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,2,Larvae,29
+2/15/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,2,Settled,0
+2/15/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,2,Larvae,30
+2/15/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,2,Settled,0
+2/15/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,2,Larvae,30
+2/15/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,2,Settled,0
+2/15/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,2,Larvae,30
+2/15/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,2,Settled,0
+2/16/26,1,Control,3,Larvae,30
+2/16/26,1,Control,3,Settled,0
+2/16/26,2,Control,3,Larvae,30
+2/16/26,2,Control,3,Settled,0
+2/16/26,3,Rhodomonas,3,Larvae,30
+2/16/26,3,Rhodomonas,3,Settled,0
+2/16/26,4,Rhodomonas,3,Larvae,29
+2/16/26,4,Rhodomonas,3,Settled,0
+2/16/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,3,Larvae,29
+2/16/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,3,Settled,0
+2/16/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,3,Larvae,29
+2/16/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,3,Settled,1
+2/16/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,3,Larvae,30
+2/16/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,3,Settled,0
+2/16/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,3,Larvae,30
+2/16/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,3,Settled,0
+2/18/26,1,Control,4,Larvae,30
+2/18/26,1,Control,4,Settled,0
+2/18/26,2,Control,4,Larvae,30
+2/18/26,2,Control,4,Settled,0
+2/18/26,3,Rhodomonas,4,Larvae,30
+2/18/26,3,Rhodomonas,4,Settled,0
+2/18/26,4,Rhodomonas,4,Larvae,29
+2/18/26,4,Rhodomonas,4,Settled,1
+2/18/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,4,Larvae,29
+2/18/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,4,Settled,0
+2/18/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,4,Larvae,29
+2/18/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,4,Settled,1
+2/18/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,4,Larvae,30
+2/18/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,4,Settled,1
+2/18/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,4,Larvae,29
+2/18/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,4,Settled,1
+2/21/26,1,Control,5,Larvae,30
+2/21/26,1,Control,5,Settled,0
+2/21/26,2,Control,5,Larvae,30
+2/21/26,2,Control,5,Settled,0
+2/21/26,3,Rhodomonas,5,Larvae,30
+2/21/26,3,Rhodomonas,5,Settled,0
+2/21/26,4,Rhodomonas,5,Larvae,29
+2/21/26,4,Rhodomonas,5,Settled,1
+2/21/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,5,Larvae,29
+2/21/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,5,Settled,0
+2/21/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,5,Larvae,29
+2/21/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,5,Settled,1
+2/21/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,5,Larvae,30
+2/21/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,5,Settled,0
+2/21/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,5,Larvae,28
+2/21/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,5,Settled,2
+2/22/26,1,Control,6,Larvae,30
+2/22/26,1,Control,6,Settled,0
+2/22/26,2,Control,6,Larvae,30
+2/22/26,2,Control,6,Settled,0
+2/22/26,3,Rhodomonas,6,Larvae,28
+2/22/26,3,Rhodomonas,6,Settled,2
+2/22/26,4,Rhodomonas,6,Larvae,27
+2/22/26,4,Rhodomonas,6,Settled,3
+2/22/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,6,Larvae,22
+2/22/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,6,Settled,7
+2/22/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,6,Larvae,22
+2/22/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,6,Settled,7
+2/22/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,6,Larvae,24
+2/22/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,6,Settled,6
+2/22/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,6,Larvae,25
+2/22/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,6,Settled,5
+2/23/26,1,Control,7,Larvae,30
+2/23/26,1,Control,7,Settled,0
+2/23/26,2,Control,7,Larvae,30
+2/23/26,2,Control,7,Settled,0
+2/23/26,3,Rhodomonas,7,Larvae,28
+2/23/26,3,Rhodomonas,7,Settled,2
+2/23/26,4,Rhodomonas,7,Larvae,26
+2/23/26,4,Rhodomonas,7,Settled,3
+2/23/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,7,Larvae,23
+2/23/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,7,Settled,7
+2/23/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,7,Larvae,22
+2/23/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,7,Settled,6
+2/23/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,7,Larvae,24
+2/23/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,7,Settled,6
+2/23/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,7,Larvae,23
+2/23/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,7,Settled,7
+2/25/26,1,Control,8,Larvae,30
+2/25/26,1,Control,8,Settled,0
+2/25/26,2,Control,8,Larvae,30
+2/25/26,2,Control,8,Settled,0
+2/25/26,3,Rhodomonas,8,Larvae,28
+2/25/26,3,Rhodomonas,8,Settled,2
+2/25/26,4,Rhodomonas,8,Larvae,25
+2/25/26,4,Rhodomonas,8,Settled,4
+2/25/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,8,Larvae,20
+2/25/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,8,Settled,10
+2/25/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,8,Larvae,20
+2/25/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,8,Settled,9
+2/25/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,8,Larvae,22
+2/25/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,8,Settled,8
+2/25/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,8,Larvae,21
+2/25/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,8,Settled,9
+2/27/26,1,Control,9,Larvae,30
+2/27/26,1,Control,9,Settled,0
+2/27/26,2,Control,9,Larvae,30
+2/27/26,2,Control,9,Settled,0
+2/27/26,3,Rhodomonas,9,Larvae,28
+2/27/26,3,Rhodomonas,9,Settled,2
+2/27/26,4,Rhodomonas,9,Larvae,25
+2/27/26,4,Rhodomonas,9,Settled,4
+2/27/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,9,Larvae,20
+2/27/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,9,Settled,10
+2/27/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,9,Larvae,20
+2/27/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,9,Settled,9
+2/27/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,9,Larvae,20
+2/27/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,9,Settled,10
+2/27/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,9,Larvae,21
+2/27/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,9,Settled,9
+03/01/26,1,Control,10,Larvae,30
+03/01/26,1,Control,10,Settled,0
+03/01/26,2,Control,10,Larvae,30
+03/01/26,2,Control,10,Settled,0
+03/01/26,3,Rhodomonas,10,Larvae,26
+03/01/26,3,Rhodomonas,10,Settled,4
+03/01/26,4,Rhodomonas,10,Larvae,25
+03/01/26,4,Rhodomonas,10,Settled,5
+03/01/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,10,Larvae,20
+03/01/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,10,Settled,9
+03/01/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,10,Larvae,20
+03/01/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,10,Settled,10
+03/01/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,10,Larvae,17
+03/01/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,10,Settled,12
+03/01/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,10,Larvae,20
+03/01/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,10,Settled,9
+03/03/26,1,Control,11,Larvae,30
+03/03/26,1,Control,11,Settled,0
+03/03/26,2,Control,11,Larvae,30
+03/03/26,2,Control,11,Settled,0
+03/03/26,3,Rhodomonas,11,Larvae,23
+03/03/26,3,Rhodomonas,11,Settled,7
+03/03/26,4,Rhodomonas,11,Larvae,24
+03/03/26,4,Rhodomonas,11,Settled,5
+03/03/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,11,Larvae,19
+03/03/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,11,Settled,9
+03/03/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,11,Larvae,17
+03/03/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,11,Settled,12
+03/03/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,11,Larvae,17
+03/03/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,11,Settled,12
+03/03/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,11,Larvae,20
+03/03/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,11,Settled,9
+03/05/26,1,Control,12,Larvae,30
+03/05/26,1,Control,12,Settled,0
+03/05/26,2,Control,12,Larvae,30
+03/05/26,2,Control,12,Settled,0
+03/05/26,3,Rhodomonas,12,Larvae,23
+03/05/26,3,Rhodomonas,12,Settled,7
+03/05/26,4,Rhodomonas,12,Larvae,23
+03/05/26,4,Rhodomonas,12,Settled,6
+03/05/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,12,Larvae,19
+03/05/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,12,Settled,9
+03/05/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,12,Larvae,16
+03/05/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,12,Settled,14
+03/05/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,12,Larvae,17
+03/05/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,12,Settled,11
+03/05/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,12,Larvae,16
+03/05/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,12,Settled,11
+03/07/26,1,Control,13,Larvae,30
+03/07/26,1,Control,13,Settled,0
+03/07/26,2,Control,13,Larvae,30
+03/07/26,2,Control,13,Settled,0
+03/07/26,3,Rhodomonas,13,Larvae,23
+03/07/26,3,Rhodomonas,13,Settled,7
+03/07/26,4,Rhodomonas,13,Larvae,23
+03/07/26,4,Rhodomonas,13,Settled,6
+03/07/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,13,Larvae,19
+03/07/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,13,Settled,9
+03/07/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,13,Larvae,16
+03/07/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,13,Settled,13
+03/07/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,13,Larvae,16
+03/07/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,13,Settled,12
+03/07/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,13,Larvae,13
+03/07/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,13,Settled,13
+03/08/26,1,Control,14,Larvae,30
+03/08/26,1,Control,14,Settled,0
+03/08/26,2,Control,14,Larvae,30
+03/08/26,2,Control,14,Settled,0
+03/08/26,3,Rhodomonas,14,Larvae,22
+03/08/26,3,Rhodomonas,14,Settled,8
+03/08/26,4,Rhodomonas,14,Larvae,23
+03/08/26,4,Rhodomonas,14,Settled,6
+03/08/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,14,Larvae,11
+03/08/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,14,Settled,17
+03/08/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,14,Larvae,15
+03/08/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,14,Settled,14
+03/08/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,14,Larvae,16
+03/08/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,14,Settled,12
+03/08/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,14,Larvae,13
+03/08/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,14,Settled,14
+03/09/26,1,Control,15,Larvae,30
+03/09/26,1,Control,15,Settled,0
+03/09/26,2,Control,15,Larvae,30
+03/09/26,2,Control,15,Settled,0
+03/09/26,3,Rhodomonas,15,Larvae,22
+03/09/26,3,Rhodomonas,15,Settled,8
+03/09/26,4,Rhodomonas,15,Larvae,22
+03/09/26,4,Rhodomonas,15,Settled,6
+03/09/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,15,Larvae,10
+03/09/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,15,Settled,18
+03/09/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,15,Larvae,15
+03/09/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,15,Settled,15
+03/09/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,15,Larvae,16
+03/09/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,15,Settled,12
+03/09/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,15,Larvae,9
+03/09/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,15,Settled,18
+03/11/26,1,Control,16,Larvae,30
+03/11/26,1,Control,16,Settled,0
+03/11/26,2,Control,16,Larvae,30
+03/11/26,2,Control,16,Settled,0
+03/11/26,3,Rhodomonas,16,Larvae,20
+03/11/26,3,Rhodomonas,16,Settled,10
+03/11/26,4,Rhodomonas,16,Larvae,21
+03/11/26,4,Rhodomonas,16,Settled,8
+03/11/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,16,Larvae,10
+03/11/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,16,Settled,17
+03/11/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,16,Larvae,12
+03/11/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,16,Settled,18
+03/11/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,16,Larvae,16
+03/11/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,16,Settled,13
+03/11/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,16,Larvae,9
+03/11/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,16,Settled,20
+03/14/26,1,Control,17,Larvae,30
+03/14/26,1,Control,17,Settled,0
+03/14/26,2,Control,17,Larvae,30
+03/14/26,2,Control,17,Settled,0
+03/14/26,3,Rhodomonas,17,Larvae,18
+03/14/26,3,Rhodomonas,17,Settled,11
+03/14/26,4,Rhodomonas,17,Larvae,20
+03/14/26,4,Rhodomonas,17,Settled,9
+03/14/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,17,Larvae,10
+03/14/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,17,Settled,19
+03/14/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,17,Larvae,9
+03/14/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,17,Settled,21
+03/14/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,17,Larvae,13
+03/14/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,17,Settled,16
+03/14/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,17,Larvae,7
+03/14/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,17,Settled,22
+03/15/26,1,Control,18,Larvae,20
+03/15/26,1,Control,18,Settled,0
+03/15/26,2,Control,18,Larvae,30
+03/15/26,2,Control,18,Settled,0
+03/15/26,3,Rhodomonas,18,Larvae,18
+03/15/26,3,Rhodomonas,18,Settled,11
+03/15/26,4,Rhodomonas,18,Larvae,19
+03/15/26,4,Rhodomonas,18,Settled,10
+03/15/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,18,Larvae,10
+03/15/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,18,Settled,19
+03/15/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,18,Larvae,7
+03/15/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,18,Settled,22
+03/15/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,18,Larvae,10
+03/15/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,18,Settled,19
+03/15/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,18,Larvae,8
+03/15/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,18,Settled,20
+03/16/26,1,Control,19,Larvae,30
+03/16/26,1,Control,19,Settled,0
+03/16/26,2,Control,19,Larvae,30
+03/16/26,2,Control,19,Settled,0
+03/16/26,3,Rhodomonas,19,Larvae,18
+03/16/26,3,Rhodomonas,19,Settled,11
+03/16/26,4,Rhodomonas,19,Larvae,19
+03/16/26,4,Rhodomonas,19,Settled,10
+03/16/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,19,Larvae,10
+03/16/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,19,Settled,19
+03/16/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,19,Larvae,7
+03/16/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,19,Settled,23
+03/16/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,19,Larvae,6
+03/16/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,19,Settled,23
+03/16/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,19,Larvae,7
+03/16/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,19,Settled,21
+03/18/26,1,Control,20,Larvae,28
+03/18/26,1,Control,20,Settled,2
+03/18/26,2,Control,20,Larvae,22
+03/18/26,2,Control,20,Settled,6
+03/18/26,3,Rhodomonas,20,Larvae,7
+03/18/26,3,Rhodomonas,20,Settled,12
+03/18/26,4,Rhodomonas,20,Larvae,18
+03/18/26,4,Rhodomonas,20,Settled,11
+03/18/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,20,Larvae,10
+03/18/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,20,Settled,19
+03/18/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,20,Larvae,8
+03/18/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,20,Settled,22
+03/18/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,20,Larvae,4
+03/18/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,20,Settled,25
+03/18/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,20,Larvae,6
+03/18/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,20,Settled,22
+03/21/26,1,Control,21,Larvae,27
+03/21/26,1,Control,21,Settled,3
+03/21/26,2,Control,21,Larvae,24
+03/21/26,2,Control,21,Settled,6
+03/21/26,3,Rhodomonas,21,Larvae,17
+03/21/26,3,Rhodomonas,21,Settled,12
+03/21/26,4,Rhodomonas,21,Larvae,18
+03/21/26,4,Rhodomonas,21,Settled,11
+03/21/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,21,Larvae,10
+03/21/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,21,Settled,19
+03/21/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,21,Larvae,6
+03/21/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,21,Settled,24
+03/21/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,21,Larvae,2
+03/21/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,21,Settled,27
+03/21/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,21,Larvae,6
+03/21/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,21,Settled,22
+03/22/26,1,Control,22,Larvae,27
+03/22/26,1,Control,22,Settled,3
+03/22/26,2,Control,22,Larvae,24
+03/22/26,2,Control,22,Settled,6
+03/22/26,3,Rhodomonas,22,Larvae,17
+03/22/26,3,Rhodomonas,22,Settled,12
+03/22/26,4,Rhodomonas,22,Larvae,18
+03/22/26,4,Rhodomonas,22,Settled,11
+03/22/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,22,Larvae,10
+03/22/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,22,Settled,19
+03/22/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,22,Larvae,5
+03/22/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,22,Settled,25
+03/22/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,22,Larvae,2
+03/22/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,22,Settled,27
+03/22/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,22,Larvae,6
+03/22/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,22,Settled,22
+03/23/26,1,Control,23,Larvae,27
+03/23/26,1,Control,23,Settled,3
+03/23/26,2,Control,23,Larvae,23
+03/23/26,2,Control,23,Settled,7
+03/23/26,3,Rhodomonas,23,Larvae,17
+03/23/26,3,Rhodomonas,23,Settled,12
+03/23/26,4,Rhodomonas,23,Larvae,17
+03/23/26,4,Rhodomonas,23,Settled,12
+03/23/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,23,Larvae,10
+03/23/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,23,Settled,19
+03/23/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,23,Larvae,5
+03/23/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,23,Settled,25
+03/23/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,23,Larvae,2
+03/23/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,23,Settled,27
+03/23/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,23,Larvae,6
+03/23/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,23,Settled,22
+03/25/26,1,Control,24,Larvae,27
+03/25/26,1,Control,24,Settled,3
+03/25/26,2,Control,24,Larvae,23
+03/25/26,2,Control,24,Settled,7
+03/25/26,3,Rhodomonas,24,Larvae,17
+03/25/26,3,Rhodomonas,24,Settled,12
+03/25/26,4,Rhodomonas,24,Larvae,17
+03/25/26,4,Rhodomonas,24,Settled,12
+03/25/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,24,Larvae,10
+03/25/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,24,Settled,19
+03/25/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,24,Larvae,5
+03/25/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,24,Settled,22
+03/25/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,24,Larvae,2
+03/25/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,24,Settled,27
+03/25/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,24,Larvae,5
+03/25/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,24,Settled,23
+03/28/26,1,Control,25,Larvae,27
+03/28/26,1,Control,25,Settled,3
+03/28/26,2,Control,25,Larvae,22
+03/28/26,2,Control,25,Settled,8
+03/28/26,3,Rhodomonas,25,Larvae,17
+03/28/26,3,Rhodomonas,25,Settled,12
+03/28/26,4,Rhodomonas,25,Larvae,17
+03/28/26,4,Rhodomonas,25,Settled,12
+03/28/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,25,Larvae,9
+03/28/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,25,Settled,19
+03/28/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,25,Larvae,4
+03/28/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,25,Settled,23
+03/28/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,25,Larvae,5
+03/28/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,25,Settled,23
+03/30/26,1,Control,26,Larvae,23
+03/30/26,1,Control,26,Settled,7
+03/30/26,2,Control,26,Larvae,22
+03/30/26,2,Control,26,Settled,8
+03/30/26,3,Rhodomonas,26,Larvae,17
+03/30/26,3,Rhodomonas,26,Settled,12
+03/30/26,4,Rhodomonas,26,Larvae,13
+03/30/26,4,Rhodomonas,26,Settled,14
+03/30/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,26,Larvae,8
+03/30/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,26,Settled,21
+03/30/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,26,Larvae,2
+03/30/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,26,Settled,25
+03/30/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,26,Larvae,6
+03/30/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,26,Settled,24
+04/01/26,1,Control,27,Larvae,15
+04/01/26,1,Control,27,Settled,15
+04/01/26,2,Control,27,Larvae,13
+04/01/26,2,Control,27,Settled,17
+04/01/26,3,Rhodomonas,27,Larvae,8
+04/01/26,3,Rhodomonas,27,Settled,21
+04/01/26,4,Rhodomonas,27,Larvae,10
+04/01/26,4,Rhodomonas,27,Settled,19
+04/01/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,27,Larvae,8
+04/01/26,5,Sea grapes (Botryocladia pseudodichotoma) sterilized,27,Settled,19
+04/01/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,27,Larvae,1
+04/01/26,6,Sea grapes (Botryocladia pseudodichotoma) sterilized,27,Settled,26
+04/01/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,27,Larvae,1
+04/01/26,7,Sea grapes (Botryocladia pseudodichotoma) no sterilization,27,Settled,29
+04/01/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,27,Larvae,5
+04/01/26,8,Sea grapes (Botryocladia pseudodichotoma) no sterilization,27,Settled,20
