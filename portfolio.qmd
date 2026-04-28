@@ -29,6 +29,6 @@ You can add options to executable code like this
 library("tidyverse")
 ```
 ```{r}
-shopping <- read_csv("archive/shopping_trends_updated.csv")
+star <- read_csv("archive/shopping_trends_updated.csv")
 ```
 
