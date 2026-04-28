@@ -38,15 +38,17 @@ star <- read_csv("data-raw/Casas Bat star Project Data - Sheet1.csv")
 
 
 ```{r}
+#filtering for when larvae is at least 1 because I want to try running statistics and it doesn't like zeros, also might just make the graph look better
 star_clean <- star |>
   filter(Larvae >= 1)
 
-
+#making a column for status to label each container for each day with the exact counts of larvae and settled stars
 star_clean2 <- star_clean |>
     pivot_longer(cols = c(Larvae, Settled), 
                names_to = "Status", 
                values_to = "Count")
 
+#adding proportion to show a more distinct change in settlement rate
 starclean3 <- star_clean |>
   mutate( Total = Larvae + Settled,
           propsettled = (Settled / Total)* 100)
