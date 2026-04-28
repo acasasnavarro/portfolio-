@@ -12,7 +12,7 @@ author: Alondra Casas
 
 # Data Description
 
-This is a dataset about shopping trends by demographic. I chose this dataset because I thought it would be interesting to look at shopping trends and purchases throughout seasons and potentially identify trends that cause the economy to bloom or crash. My data is from kaggle datasets and is called the Customer Shopping Trends dataset. The source describes the dataset as the journey into consumer insights and retail evolution with synthetic data. Variables in this dataset include items such as: gender, age, category, purchase amount and season.
+This is a dataset of larval settlement of bat stars (Patiria miniata) over time. This dataset is from my personal research project that I've been doing over the past few months. My proposed research question is "How does the substrate type affect the rate of Patiria miniata larvae settlement over time? This data set is a table of variables such as date, counts of settled stars and larvae, the container numbers and the corresponding treatments they're in. This data comes from my personal projet so I'm the source and some cleaning I would like to do is filter for when larvae is greater than one, mutate the date column, add an "experiement date" column to show trend over days, and maybe adding proportions.
 
 # Data Visualization 
 I want my final visualizations to consist of column plots and show proportion of people that buy specific clothing items. 
