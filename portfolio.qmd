@@ -77,5 +77,18 @@ star |>
 
 ```{r}
 
+starclean3 |>
+  ggplot(aes(x = Day, y = propsettled, color = Treatment, fill = Treatment, ), colors ="virdis") +
+  geom_boxplot(alpha = 0.5) +
+  scale_x_continuous(breaks = 1:27) +
+  labs(title = "Proportion of Settled Bat Star larvae Over Time", 
+       x = NULL,
+       y = "Proportion",
+       color = "Treatment") +
+  theme_bw() +
+  theme(legend.position = "bottom")+
+  theme(legend.text = element_text(size = 5))
+
 ```
+
 
